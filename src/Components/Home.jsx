@@ -7,7 +7,7 @@ const Home = () => {
 
 <>
 <div className='h-96 w-96 border-white' >
-  hello
+  
 </div>
 </>
   )
