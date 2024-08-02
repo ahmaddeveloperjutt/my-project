@@ -9,7 +9,9 @@ export default {
       backgroundImage:{
 
         'hunza':"url('D:\react new\my-project\src\assets\download.jpeg')"
-      }
+      },
+   
+
     },
   },
   plugins: [],

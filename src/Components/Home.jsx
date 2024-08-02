@@ -1,16 +1,22 @@
-import React from 'react'
-import image from '../assets/download.jpeg'
-import './home.css'
+import React from "react";
+import image from "../assets/download.jpeg";
+import "./home.css";
+import Data from './Data';
 
 const Home = () => {
+
   return (
-
-<>
-<div className='h-96 w-96 border-white' >
+    <>
   
-</div>
-</>
-  )
-}
 
-export default Home
+        <div className=" flex   rounded-lg  lg:w-80   bg-gray-300  p-4 ">
+        <Data />
+          </div> 
+      
+
+    
+    </>
+  );
+};
+
+export default Home;
